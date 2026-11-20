@@ -1,0 +1,24 @@
+name: Tarea o mejora
+description: Trabajo concreto, una funcionalidad o una mejora de documentación
+labels: ["type/feature"]
+body:
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo
+      description: Qué debe quedar hecho y para qué.
+    validations:
+      required: true
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación
+      description: Cómo se comprueba que está hecho (comando o clic, y resultado esperado).
+      placeholder: "- [ ] ..."
+    validations:
+      required: true
+  - type: input
+    id: tarjeta
+    attributes:
+      label: Tarjeta del Board
+      description: "KB-<n> si ya existe."
