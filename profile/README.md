@@ -1,6 +1,6 @@
-# KUKU Studio
+# KUKÜ Studio
 
-KUKU es un estudio con una plataforma interna, **KUKU Board** (un ERP sobre Supabase), y apps independientes que se conectan a ella. Los repos son privados: los ven solo los miembros de la organización.
+KUKÜ es un estudio con una plataforma interna, **KUKÜ Board** (un ERP sobre Supabase), y apps independientes que se conectan a ella. Los repos son privados: los ven solo los miembros de la organización.
 
 ## Objetivo
 
@@ -36,7 +36,7 @@ Guía paso a paso, con comando y resultado esperado de cada paso: [`docs/ONBOARD
 
 ## Enlaces
 
-- [KUKU Board en producción](https://board.kukustudio.com.co) (acceso por invitación)
+- [KUKÜ Board en producción](https://board.kukustudio.com.co) (acceso por invitación)
 - [Runbooks](https://github.com/KUKU-STUDIO/kuku-board/tree/main/docs/runbooks)
 - [Checklist de puesta en marcha](https://github.com/KUKU-STUDIO/kuku-board/blob/main/docs/ready-to-operate.md)
 - [Cómo contribuir](https://github.com/KUKU-STUDIO/.github/blob/main/CONTRIBUTING.md)
